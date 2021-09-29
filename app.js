@@ -1,8 +1,9 @@
-// import functions and grab DOM elements
+console.log('hello world');
 
-// initialize global state
 
-// set event listeners 
-  // get user input
-  // use user input to update state 
-  // update DOM to reflect the new state
+let nums = [1, 2, 3, 4];
+
+console.log(nums);
+
+let names = ['phoenix', 'miklo', 'libbi'];
+console.log(names);
